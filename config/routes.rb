@@ -1,3 +1,5 @@
 Rails.application.routes.draw do
-  root "application#hello"
+  get 'game/index'
+  get 'game_init/index'
+  root "game_init#index"
 end
