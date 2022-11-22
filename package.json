@@ -1,0 +1,23 @@
+{
+  "name": "de_wordle",
+  "version": "1.0.0",
+  "description": "Wordle clone",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byVerbel/de_wordle.git"
+  },
+  "author": "byverbel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byVerbel/de_wordle/issues"
+  },
+  "homepage": "https://github.com/byVerbel/de_wordle#readme"
+}
